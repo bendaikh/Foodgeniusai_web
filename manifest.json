@@ -1,6 +1,6 @@
 {
-    "name": "GourmetAI - AI-Powered Recipe Generation",
-    "short_name": "GourmetAI",
+    "name": "FoodGeniusAI - AI-Powered Recipe Generation",
+    "short_name": "FoodGeniusAI",
     "description": "AI-powered recipe generation and culinary inspiration",
     "start_url": "/",
     "display": "standalone",
